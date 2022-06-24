@@ -10,9 +10,6 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class SpringBootDemoApplication {
 
 	public static void main(String[] args) {
-//		ConfigurableApplicationContext config = SpringApplication.run(SpringBootDemo1Application.class, args);
-//		ComponentConfig comconfig= config.getBean(ComponentConfig.class);
-//		System.out.println(comconfig.getMessage());
 		SpringApplication.run(SpringBootDemoApplication.class, args);
 		
 	}
