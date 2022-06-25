@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8f5c107-b390-4b34-91e1-24fdd9039426" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/java/demo/SpringBootDemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +35,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/docker-jenkins-integration-app/src/main/java/com/java/demo"
+    "last_opened_file_path": "D:/docker-jenkins-integration-app/src",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\docker-jenkins-integration-app\src" />
+      <recent name="D:\docker-jenkins-integration-app\src\main" />
       <recent name="D:\docker-jenkins-integration-app\src\main\java\com\java\demo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\docker-jenkins-integration-app\src\test" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SpringBootDemoApplication">
     <configuration name="SpringBootDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.java.demo.SpringBootDemoApplication" />
       <module name="docker-jenkins-integration-app" />
       <extension name="coverage">
@@ -50,9 +68,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in docker-jenkins-integration-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="docker-jenkins-integration-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SpringBootDemoApplication" />
+        <item itemvalue="JUnit.All in docker-jenkins-integration-app" />
       </list>
     </recent_temporary>
   </component>
